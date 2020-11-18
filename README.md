@@ -6,7 +6,7 @@ Projeto PAP
 
 O prejeto consiste num Website Anti-Bullying. A plataforma tem uma area onde a vitima ou a testemunha de um caso de Bullying pode deixar um comentário anónimo a reportar a situação. 
 Em seguida um professor que terá acesso aos nomes dos alunos avaliará a melhor decisão a tomar.
-O objetivo desta plataforma é diminuir os casos de Bullying turnando as escolas num sitio mais seguro e agradável para estar.
+O objetivo desta plataforma é diminuir os casos de Bullying tornando as escolas num sitio mais seguro e agradável para estar.
 
 ## O Website
 O Website em si está dividido em duas partes o **Front-Office** que é a parte que o cliente vê e o **Back-Office** que é a parte que o administrador vê.
